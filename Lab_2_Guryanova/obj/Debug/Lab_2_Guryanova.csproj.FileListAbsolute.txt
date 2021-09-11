@@ -1,0 +1,10 @@
+C:\Users\Зайка\source\repos\Lab_2_Guryanova\Lab_2_Guryanova\bin\Debug\Lab_2_Guryanova.exe.config
+C:\Users\Зайка\source\repos\Lab_2_Guryanova\Lab_2_Guryanova\bin\Debug\Lab_2_Guryanova.exe
+C:\Users\Зайка\source\repos\Lab_2_Guryanova\Lab_2_Guryanova\bin\Debug\Lab_2_Guryanova.pdb
+C:\Users\Зайка\source\repos\Lab_2_Guryanova\Lab_2_Guryanova\obj\Debug\Lab_2_Guryanova.csproj.AssemblyReference.cache
+C:\Users\Зайка\source\repos\Lab_2_Guryanova\Lab_2_Guryanova\obj\Debug\Lab_2_Guryanova.Form1.resources
+C:\Users\Зайка\source\repos\Lab_2_Guryanova\Lab_2_Guryanova\obj\Debug\Lab_2_Guryanova.Properties.Resources.resources
+C:\Users\Зайка\source\repos\Lab_2_Guryanova\Lab_2_Guryanova\obj\Debug\Lab_2_Guryanova.csproj.GenerateResource.cache
+C:\Users\Зайка\source\repos\Lab_2_Guryanova\Lab_2_Guryanova\obj\Debug\Lab_2_Guryanova.csproj.CoreCompileInputs.cache
+C:\Users\Зайка\source\repos\Lab_2_Guryanova\Lab_2_Guryanova\obj\Debug\Lab_2_Guryanova.exe
+C:\Users\Зайка\source\repos\Lab_2_Guryanova\Lab_2_Guryanova\obj\Debug\Lab_2_Guryanova.pdb
